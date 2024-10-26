@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Halloween;
+    src: url(Another\ Danger\ -\ Demo.otf)
+}
+
+body {
+    font-family: Halloween;
+}
+
+button {
+    font-family: Halloween;
+}
+
+option {
+    font-family: Halloween;
+}
+
+#lang {
+    font-family: Halloween;
+}
+
+
